@@ -55,5 +55,5 @@ cd ex1
 ls
 ```
 
-Now, left click the file README.md and choose open. The file should open
+Now, left click the file README.md which appears in the Terminal and choose open. The file should open
 in the Editor space. Please follow the instructions in the file.
