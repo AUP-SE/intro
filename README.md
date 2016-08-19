@@ -22,6 +22,6 @@ class.
 
 To start, please open an account on [github](https://github.com/).
 Once the account has been opened and verified, please send an email
-to [tlibal@aup.edu](tlibal@aup.edu) with your username.
+to tlibal@aup.edu with your username.
 
 
