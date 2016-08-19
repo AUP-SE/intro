@@ -47,10 +47,13 @@ The Terminal is a command-line took which allows you to issue commands
 to the operating system. It will be our main tool for development.
 
 You are now ready to go to the next step. In the Terminal please execute
-the following commands:
+the following commands. You will need to use your new github username
+and password.
 ```
 git clone https://github.com/AUP-SE/ex1
 cd ex1
+ls
 ```
 
-In the Workspace tab of the Navigator, double click
+Now, left click the file README.md and choose open. The file should open
+in the Editor space. Please follow the instructions in the file.
