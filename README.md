@@ -3,8 +3,7 @@
 Welcome to the introduction page for the Software Engineering course
 given in fall 2016 in the American University of Paris.
 
-The syllabus can be found at
-[https://github.com/AUP-SE/syllabus].
+The syllabus can be found at https://github.com/AUP-SE/syllabus.
 
 On this page you will find information of how to
 
