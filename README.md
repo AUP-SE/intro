@@ -18,8 +18,8 @@ service as the primary media of exchange between the participants of the
 class.
 
 To start, please open an account on [github](https://github.com/).
-Once the account has been opened and verified, please send an email
-to tlibal@aup.edu with your username.
+Once the account has been opened and verified, please send me an email
+with your name and github username.
 
 A software engineer should be able to easily set up and use any
 technology which might help improve the development process.
@@ -46,12 +46,18 @@ screen. In order to open and edit a file, you need to double click it.
 The Terminal is a command-line took which allows you to issue commands
 to the operating system. It will be our main tool for development.
 
-You are now ready to go to the next step. In the Terminal please execute
+You are now ready to go to the next step and you should already have in
+your mail box an invitation to work on the first exercise.
+
+Accept the invitation, press clone or download and copy the link given.
+The link will have the form https://github.com/AUP-SE/<rep-name>
+
+In the Terminal please execute
 the following commands. You will need to use your new github username
 and password.
 ```
-git clone https://github.com/AUP-SE/ex1
-cd ex1
+git clone https://github.com/AUP-SE/<rep-name>
+cd <rep-name>
 ls
 ```
 
