@@ -50,14 +50,14 @@ You are now ready to go to the next step and you should already have in
 your mail box an invitation to work on the first exercise.
 
 Accept the invitation, press clone or download and copy the link given.
-The link will have the form https://github.com/AUP-SE/<rep-name>
+The link will have the form https://github.com/AUP-SE/\[rep-name\]
 
 In the Terminal please execute
 the following commands. You will need to use your new github username
 and password.
 ```
-git clone https://github.com/AUP-SE/<rep-name>
-cd <rep-name>
+git clone https://github.com/AUP-SE/[rep-name]
+cd [rep-name]
 ls
 ```
 
