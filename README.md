@@ -33,9 +33,10 @@ distribution. Since our Lab computers are running Windows, we will use
 the cloud service [Cloud9 IDE](http://c9.io/) as our development
 environment.
 
-Please open a free account (TODO)
-and create a new workspace.
-Make sure to choose Blank for a template.
+After you sent me your email, you should get back an invitation to join
+the Cloud9 course. Follow the link and create a new account.
+Once the new account was created, go on and  create a new workspace.
+Make sure to choose Private and Blank for a template.
 From now on, you will always use this workshop for solving exercises and
 working on your project.
 
