@@ -44,23 +44,5 @@ Your development environment is divided into the "Navigator" on the
 left, the "Editor" on the top and the "Terminal" at the bottom of the
 screen. In order to open and edit a file, you need to double click it.
 
-The Terminal is a command-line took which allows you to issue commands
+The Terminal is a command-line tool which allows you to issue commands
 to the operating system. It will be our main tool for development.
-
-You are now ready to go to the next step and you should already have in
-your mail box an invitation to work on the first exercise.
-
-Accept the invitation, press clone or download and copy the link given.
-The link will have the form https://github.com/AUP-SE/[rep-name]
-
-In the Terminal please execute
-the following commands. You will need to use your new github username
-and password.
-```
-git clone https://github.com/AUP-SE/[rep-name]
-cd [rep-name]
-ls
-```
-
-Now, left click the file README.md which appears in the Terminal and choose open. The file should open
-in the Editor space. Please follow the instructions in the file.
